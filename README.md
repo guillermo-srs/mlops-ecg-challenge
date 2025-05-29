@@ -17,7 +17,7 @@ The primary goal is to develop and evaluate different methods for efficiently fi
 * The use case database is composed of 10-second intervals of ECGs (no sampling rate given).
 * The goal is to efficiently produce a similarity-based analysis over ECGs samples.
 * Non-functional requirements: scalability and high speed (~1 second answer to queries regardless of size, though this is a target for a production system and this project explores trade-offs). No “random access” specification.
-* The solution should be able to handle ~$10^9$ elements (this project tests with configurable data sizes).
+* The solution should be able to handle $\sim 10^9$ elements (this project tests with configurable data sizes).
 * Multiple methods will be used to define “similarity” measures between observations.
 
 ### Base Issues Addressed
