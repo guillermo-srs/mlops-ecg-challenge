@@ -254,8 +254,6 @@ The Makefile handles setting parameters and constructs the spark-submit command.
 
 ## License Notice
 
-*(As provided in the original challenge description)*
-
 This code is shared exclusively for evaluation purposes related to the recruitment process at IDOVEN. Copying, distribution, modification, or reuse of this code is strictly prohibited without explicit written authorization from the author.
 
 © Guillermo Sarasa, 2025. All rights reserved.
